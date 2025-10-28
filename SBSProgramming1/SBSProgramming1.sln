@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_함수의 선언 및 사�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_코드의 범위", "9_코드의 범위\9_코드의 범위.vcxproj", "{16CF27F2-B1B6-4387-8E27-F05799B72289}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a10_상수와 열거형 사용", "10_상수와 열거형 사용\10_상수와 열거형 사용.vcxproj", "{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{16CF27F2-B1B6-4387-8E27-F05799B72289}.Release|x64.Build.0 = Release|x64
 		{16CF27F2-B1B6-4387-8E27-F05799B72289}.Release|x86.ActiveCfg = Release|Win32
 		{16CF27F2-B1B6-4387-8E27-F05799B72289}.Release|x86.Build.0 = Release|Win32
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Debug|x64.ActiveCfg = Debug|x64
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Debug|x64.Build.0 = Debug|x64
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Debug|x86.Build.0 = Debug|Win32
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Release|x64.ActiveCfg = Release|x64
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Release|x64.Build.0 = Release|x64
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Release|x86.ActiveCfg = Release|Win32
+		{EABDFB6B-E952-4AD0-9897-0D16CEA1BF5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
