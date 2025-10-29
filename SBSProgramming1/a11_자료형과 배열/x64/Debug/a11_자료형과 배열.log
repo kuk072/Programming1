@@ -1,0 +1,3 @@
+﻿  11_main.c
+C:\Users\user\OneDrive\바탕 화면\Programming1\SBSProgramming1\a11_자료형과 배열\11_main.c(26,6): warning C4101: 'numArray2' :참조되지 않은 지역 변수입니다.
+  a11_자료형과 배열.vcxproj -> C:\Users\user\OneDrive\바탕 화면\Programming1\SBSProgramming1\x64\Debug\a11_자료형과 배열.exe
