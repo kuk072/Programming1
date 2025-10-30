@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <string.h>
 
 // 어떤 점이 장점이 되는가?
 // 기존 방식, 새로운 방식 둘다 사용.
@@ -32,7 +33,7 @@ int main()
 	char name[10];
 
 	scanf("%s", name);   // name의 주소
-	printf("%s", name);
+	printf("%s\n", name);
 
 	if (name == "가위")
 	{
@@ -46,4 +47,15 @@ int main()
 	// 문자열의 비교 함수로 만들어본다. 실행할 수 있게 본다.
 
 	// name 가위 들어있는 내용은 같다. '가' '위' '\0' -> 같다 알려주는 함수     bool IsStrCompare
+
+	// 두 개의 문자열에 값을 비교하는 방법? -> strcmp
+
+	if (strcmp("가위", name) == 0 )
+	{
+		printf("같다.\n");
+	}
+	else
+	{
+		printf("다르다.\n");
+	}
 }
