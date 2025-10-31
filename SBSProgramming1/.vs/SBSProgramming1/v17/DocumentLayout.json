@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0451CAA0-2DB9-4A9D-BD68-C7111EB2C8F2}|a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0451CAA0-2DB9-4A9D-BD68-C7111EB2C8F2}|a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0451CAA0-2DB9-4A9D-BD68-C7111EB2C8F2}|a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|solutionrelative:a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "12_main.c",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
               "RelativeDocumentMoniker": "a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
               "RelativeToolTip": "a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-30T07:12:39.735Z",
+              "WhenOpened": "2025-10-31T08:29:56.778Z",
               "EditorCaption": ""
             }
           ]
