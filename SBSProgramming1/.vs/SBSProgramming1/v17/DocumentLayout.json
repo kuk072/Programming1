@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0451CAA0-2DB9-4A9D-BD68-C7111EB2C8F2}|a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0451CAA0-2DB9-4A9D-BD68-C7111EB2C8F2}|a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|solutionrelative:a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}|a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}|a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C.vcxproj|solutionrelative:a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12_main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "RelativeDocumentMoniker": "a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Programming1\\SBSProgramming1\\a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "RelativeToolTip": "a12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_main.c",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwFUAAAAJAAAAAAAAAA==",
+              "Title": "14_main.c",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c",
+              "RelativeDocumentMoniker": "a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Programming1\\SBSProgramming1\\a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c",
+              "RelativeToolTip": "a14_\uC0C1\uC218 \uD3EC\uC778\uD130\uC640 \uC0C1\uC218 \uC9C0\uC2DC \uD3EC\uC778\uD14C\\14_main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-31T08:29:56.778Z",
+              "WhenOpened": "2025-11-03T07:03:28.504Z",
               "EditorCaption": ""
             }
           ]

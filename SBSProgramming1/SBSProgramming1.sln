@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a12_이차원 배열", "a12
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a13_포인터", "a13_포인터\a13_포인터.vcxproj", "{C9B37A26-A92E-41F5-81FE-3C582F5D8891}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a14_상수 포인터와 상수 지시 포인터", "a14_상수 포인터와 상수 지시 포인테\a14_상수 포인터와 상수 지시 포인테.vcxproj", "{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{C9B37A26-A92E-41F5-81FE-3C582F5D8891}.Release|x64.Build.0 = Release|x64
 		{C9B37A26-A92E-41F5-81FE-3C582F5D8891}.Release|x86.ActiveCfg = Release|Win32
 		{C9B37A26-A92E-41F5-81FE-3C582F5D8891}.Release|x86.Build.0 = Release|Win32
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Debug|x64.ActiveCfg = Debug|x64
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Debug|x64.Build.0 = Debug|x64
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Debug|x86.Build.0 = Debug|Win32
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Release|x64.ActiveCfg = Release|x64
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Release|x64.Build.0 = Release|x64
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Release|x86.ActiveCfg = Release|Win32
+		{9A1CBF79-9236-4D3A-825C-6C8EC189A2EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
